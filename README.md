@@ -1,0 +1,2 @@
+# Uso 
+Esta aplicación tiene como función facilitar la comunicación entre 2 o quizá más personas.Pero tiene un aspecto que lo hace algo particular, y es que codifica los mensajes, convirtiéndolos a CÓDIGO MORSE.
