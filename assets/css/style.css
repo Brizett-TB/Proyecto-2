@@ -19,7 +19,8 @@ body {
 }
 
 .container-app {
-  background-color: rgb(252, 160, 221); /* Color del fondo*/
+  background-color: rgb(252, 160, 221);
+  /* Color del fondo*/
   display: flex;
   position: relative;
   width: 100%;
@@ -135,6 +136,7 @@ button:active {
 }
 
 @keyframes blink-caret {
+
   from,
   to {
     border-color: transparent;
@@ -143,4 +145,10 @@ button:active {
   50% {
     border-color: #ff69b4;
   }
+}
+
+
+#morse-output,
+#text-output {
+  height: 30px;
 }
