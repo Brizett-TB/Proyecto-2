@@ -8,7 +8,7 @@ Es un programa en el cuál ocupamos CSS y Javascript. Javascript se encarga de l
 
 Quizá podríamos agregarle una que otra función, como la de copiar texto. 
 
-## Uso 
+## Modo de Uso 
 El modo de uso de la aplicación es fácil y sencillo.
 
 Para codificar texto a Código morse debemos seguir los siguientes pasos:
